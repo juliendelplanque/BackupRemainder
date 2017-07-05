@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JulienDelplanque 7/5/2017 23:02",
+	"super" : "Object",
+	"category" : "BackupReminder",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lastBackupFile"
+	],
+	"name" : "BackupReminder",
+	"type" : "normal"
+}
