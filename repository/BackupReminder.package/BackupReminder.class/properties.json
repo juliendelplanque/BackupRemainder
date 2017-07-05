@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"lastBackupFile"
+		"lastBackupFile",
+		"timeBetweenIterations"
 	],
 	"name" : "BackupReminder",
 	"type" : "normal"
